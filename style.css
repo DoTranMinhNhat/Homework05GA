@@ -12,11 +12,11 @@ body, html {
 }
 
 canvas, video {
+	margin-left: 13%;
     width: 30%;
     height: 30%;
-    margin-left: 12.5%;
 }
 
 canvas {
-    margin-right: 5%; 
+    margin-right: 2%; 
 }
