@@ -11,11 +11,11 @@ body, html {
     display: flex;
 }
 
-#canvas, #video {
+canvas, video {
     width: 45%;
     height: 45%;
 }
 
-#canvas {
+canvas {
     margin-right: 5%; 
 }
