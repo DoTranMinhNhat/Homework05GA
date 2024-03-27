@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	background-color: gray;
+}
+
+.container {
+    display: flex;
+}
+
+#canvas, #video {
+    width: 45%;
+    height: 45%;
+}
+
+#canvas {
+    margin-right: 5%; 
+}
